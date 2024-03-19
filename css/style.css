@@ -42,6 +42,12 @@ body {
     padding: 10px;
 }
 
+#coluna3{
+    float: left;
+    width: 110px;
+    padding: 10px;
+}
+
 #footer {
     clear: both;
     width: 100%;
